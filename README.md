@@ -1,4 +1,6 @@
 # Student Outcome Predictor: Classification and Streamlit App
+- **Live app:** https://student-outcome-predictor-2026aj05467-wilpbits-9veup8x2gdrq6p9.streamlit.app
+
 
 ## Problem statement
 Universities want to spot students who are at risk of leaving before it is too late.
@@ -97,7 +99,7 @@ confuse them with Graduates. This pulls macro recall below macro precision for a
 models except Naive Bayes.
 
 ## Streamlit app
-- **Live app:** <your Streamlit link>
+- **Live app:** https://student-outcome-predictor-2026aj05467-wilpbits-9veup8x2gdrq6p9.streamlit.app
 - **Features:** CSV upload of test data, model dropdown, six evaluation metrics,
   confusion matrix and classification report, and a comparison table of all five models
 - Models are loaded from `model/` and are **not retrained** on uploaded data
