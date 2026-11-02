@@ -24,6 +24,8 @@ interactive Streamlit app.
 | Dropout | 1421 |
 | Enrolled | 794 |
 
+- **Test dataset:**  test_data.csv
+
 - **Feature groups:** demographic (age, gender, marital status), socio-economic
   (parents' qualification and occupation, scholarship, debtor, tuition status),
   application details (mode, order, course, previous qualification), first and second
