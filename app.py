@@ -45,7 +45,7 @@ def score_model(pipe, X, y_true, n_classes):
 
 
 #Header
-st.title("Student Dropout and Success: Model Explorer")
+st.title("Student Dropout and Success Predictor")
 st.caption("Upload the held-out test CSV, pick a model, and inspect how it performs. "
            "Models are pre-trained and are not retrained on your upload.")
 
