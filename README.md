@@ -55,7 +55,7 @@ Student-Outcome-Predictor-2026aj05467-wilp.bits/
 │   └── label_encoder.joblib
 ├── .gitignore
 ├── app.py
-├── train_models.py
+├── train_models.ipynb
 ├── requirements.txt
 ├── README.md
 ├── test_data.csv
