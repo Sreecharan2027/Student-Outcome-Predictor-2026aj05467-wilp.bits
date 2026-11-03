@@ -1,6 +1,8 @@
 # Student Outcome Predictor: Classification and Streamlit App
 - **Live app:** https://student-outcome-predictor-2026aj05467-wilpbits-9veup8x2gdrq6p9.streamlit.app
 
+## GitHub repository
+https://github.com/Sreecharan2027/Student-Outcome-Predictor-2026aj05467-wilp.bits
 
 ## Problem statement
 Universities want to spot students who are at risk of leaving before it is too late.
@@ -38,9 +40,6 @@ interactive Streamlit app.
   fitted on training data only and saved inside each model pipeline
 - **Train/test split:** test-0.2, stratified on Target, random_state = 4091;
   3539 training rows and 885 test rows (`test_data.csv`)
-
-## GitHub repository
-https://github.com/Sreecharan2027/Student-Outcome-Predictor-2026aj05467-wilp.bits
 
 **File structure:**
 ``` text
